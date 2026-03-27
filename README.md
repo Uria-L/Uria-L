@@ -1,5 +1,5 @@
 ## Hi, I'm Uria :)
-## I'm currently learning about C2, following wherever curiosity takes me 
+
 
 <!--
 **Uria-L/Uria-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
