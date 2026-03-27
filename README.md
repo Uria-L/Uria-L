@@ -1,5 +1,4 @@
-## Hi, I'm Uria :)
-
+## Hi, my name's Uria :)
 
 <!--
 **Uria-L/Uria-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
