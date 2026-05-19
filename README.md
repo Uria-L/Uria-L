@@ -1,5 +1,8 @@
 ## Hi :)
- 
+
+I'm currently building ML-based intrusion detection & exploring statistical strategies in prediction markets 
+
+
 <!--
 **Uria-L/Uria-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
